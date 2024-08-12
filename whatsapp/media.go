@@ -9,7 +9,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/Simplou/goxios"
+	"github.com/Plataforma-Simplou/goxios"
 )
 
 func GenerateMediaID(whatsapp *client, filePath, mimeType string) (string, error) {

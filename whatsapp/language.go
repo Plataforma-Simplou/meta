@@ -1,6 +1,6 @@
 package whatsapp
 
-import "github.com/Simplou/goxios"
+import "github.com/Plataforma-Simplou/goxios"
 
 type languageCodes struct {
 	Afrikaans     string

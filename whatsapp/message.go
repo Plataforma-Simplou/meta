@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"io"
 
-	"github.com/Simplou/goxios"
+	"github.com/Plataforma-Simplou/goxios"
 )
 
 type Header struct {
