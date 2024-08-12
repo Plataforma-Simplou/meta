@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/Simplou/goxios"
-	"github.com/Simplou/meta"
+	"github.com/Plataforma-Simplou/goxios"
+	"github.com/Plataforma-Simplou/meta"
 )
 
 type client struct {

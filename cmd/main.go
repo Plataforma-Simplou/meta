@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/Simplou/meta/whatsapp"
+	"github.com/Plataforma-Simplou/meta/whatsapp"
 )
 
 func main() {

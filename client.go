@@ -5,7 +5,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/Simplou/goxios"
+	"github.com/Plataforma-Simplou/goxios"
 )
 
 var BaseUrl = "https://graph.facebook.com"
